@@ -5,7 +5,7 @@
 
 
 ## Description
-This program scrapes hotel room data from two hotel booking websites and stores the
+This program scrapes hotel room data from two hotel booking websites( not real hotel booking websites but sample sites) and stores the
 Extracted information in a CSV file for comparison.
 
 ## Data Extracted
